@@ -34,7 +34,7 @@ Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/username/robotic-dog-project.git
+git clone [https://github.com/username/robotic-dog-project.git]
 cd robotic-dog-project
 Load and compile the Teensy control code using the Arduino IDE.
 Run the main Python scripts on the Raspberry Pi to initiate kinematics and control loops.
